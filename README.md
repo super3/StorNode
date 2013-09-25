@@ -11,6 +11,8 @@ Users and developers want to be able to store their files and data on the web. U
 
 The idea is simple: A Bitcoin based Pay-to-Filehost web service that allows anyone to upload files via a web interface or API. The user then will pre-pay the service to cover the cost of hosting the files.  This payment will be made in Bitcoin, and is priced based on size of the file, bandwidth required, and the duration that the file has been hosted. When the account balance is 0, the files will be queued for deletion. 
 
+See [https://bitfetch.com/](https://bitfetch.com/) for design ideas. 
+
 Sample User Interaction
 -------
 1. The user wants to store a video file on the web to share.
