@@ -14,7 +14,7 @@ For more information see "Sample User Interaction" in [Notes](NOTES.md).
 ## Setup ##
 In an effort to be as automated as possible, StorNode will install all needed dependencies and programs from a bash script. Please try to use [Debian 7.1](http://www.debian.org/distrib/netinst) if would like to take the automated route. If you would like to use another distro, please refer to the bash script for the required dependencies. 
 
-1. Setup a Linux VPS with [Debian 7.1](http://www.debian.org/distrib/netinst). Digital Ocean is recommenced. 
+1. Setup a Linux VPS with [Debian 7.1](http://www.debian.org/distrib/netinst). See "Host Recommendations" in [Notes](NOTES.md) for more info. 
 2. After logging in run the following commands:
 
 		sudo apt-get update && sudo apt-get upgrade
@@ -23,7 +23,9 @@ In an effort to be as automated as possible, StorNode will install all needed de
 		cd /StorNode
 		sh ./autoinstall
 		sh ./autostart
-3. A web server should be running on the 
+3. A web server should be now be running on the VPS's public IP. If you have issues or questions with installation, just open a Github ticket. 
+
+
 
 
 

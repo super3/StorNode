@@ -8,7 +8,7 @@
 
 Design to follow: [BitFetch](https://bitfetch.com/).
 
-## Recommendations ##
+## Host Recommendations ##
 The follow VPS hosts where found to be suitable based on price and storage. 
 
 - [Digital Ocean](http://digitalocean.com) - $5 Month / 512 RAM / 20 GB SSD / 1 TB Transfer **[Testing Phase]**
